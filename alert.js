@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 require('./transition');
 /* ========================================================================
  * Bootstrap: alert.js v3.3.1

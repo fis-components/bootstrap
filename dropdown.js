@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 /* ========================================================================
  * Bootstrap: dropdown.js v3.3.1
  * http://getbootstrap.com/javascript/#dropdowns

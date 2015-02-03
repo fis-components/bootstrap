@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 require('./alert.js');
 require('./button.js');
 require('./carousel.js');

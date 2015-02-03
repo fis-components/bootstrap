@@ -1,4 +1,4 @@
-require('jquery');
+var jQuery = require('jquery');
 require('./transition');
 /* ========================================================================
  * Bootstrap: modal.js v3.3.1
