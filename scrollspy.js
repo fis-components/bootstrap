@@ -1,4 +1,5 @@
 var jQuery = require('jquery');
+var jQuery = require('jquery');
 /* ========================================================================
  * Bootstrap: scrollspy.js v3.3.5
  * http://getbootstrap.com/javascript/#scrollspy

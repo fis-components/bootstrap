@@ -1,9 +1,12 @@
 {
-    "version": "v3.3.5",
     "repos": "https://github.com/twbs/bootstrap.git",
-    "main": "bootstrap.js",
+    "main": "js/npm",
     "dependencies": {
         "jquery": ">=1.9.1"
     },
-    "name": "bootstrap"
+    "name": "bootstrap",
+    "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "4.0.0-alpha.2"
 }

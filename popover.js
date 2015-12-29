@@ -1,5 +1,7 @@
 var jQuery = require('jquery');
 require('./tooltip.js');
+var jQuery = require('jquery');
+require('./tooltip.js');
 /* ========================================================================
  * Bootstrap: popover.js v3.3.5
  * http://getbootstrap.com/javascript/#popovers

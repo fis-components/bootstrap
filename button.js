@@ -1,4 +1,5 @@
 var jQuery = require('jquery');
+var jQuery = require('jquery');
 /* ========================================================================
  * Bootstrap: button.js v3.3.5
  * http://getbootstrap.com/javascript/#buttons
